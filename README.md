@@ -20,6 +20,3 @@ Features
 
 Requirements
 - Python 3 installed
-
-Author 
-<br>Marwan Moqbel
