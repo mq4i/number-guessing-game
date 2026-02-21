@@ -16,7 +16,7 @@ Features
 - User input validation
 - Feedback for each guess
 - Tracks number of attempts
-- Tracks time taken to guess correctly
+- Tracks time taken to guess
 
 Requirements
 - Python 3 installed
